@@ -13,8 +13,6 @@
 - [7.Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/)
 - [8.Maximum and Minimum value in an array](https://www.geeksforgeeks.org/program-find-minimum-maximum-element-array/)
 - [9.First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/)
-- [10.Reverse String](https://leetcode.com/problems/reverse-string/)
-- [11.Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [12.Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/)
 - [13.Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/)
 - [14.Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/)
